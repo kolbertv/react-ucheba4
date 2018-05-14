@@ -3,17 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d2122597-1dc4-4d09-ae39-cfc4ebc9bbee" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/about.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/blog.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/contacts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/pagenotfound.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/portfolio.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/resume.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layouts/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layouts/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/styles/menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/styles/menu.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,7 +29,7 @@
     <favorites_list name="react-ucheba4" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -153,31 +142,6 @@
               <item name="react-ucheba4" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-ucheba4" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="react-ucheba4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-ucheba4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-ucheba4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-ucheba4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-ucheba4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-ucheba4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-ucheba4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-ucheba4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -237,11 +201,20 @@
       <workItem from="1526274088319" duration="4470000" />
       <workItem from="1526291299543" duration="121000" />
       <workItem from="1526291936623" duration="7239000" />
+      <workItem from="1526305433447" duration="120000" />
     </task>
+    <task id="LOCAL-00001" summary="меню, страницы с заглушками, роутинг, подстветка элементов меню.">
+      <created>1526305526522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526305526522</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62440000" />
+    <option name="totallyTimeSpent" value="62560000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="19" width="1785" height="1110" extended-state="0" />
@@ -249,11 +222,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="npm" order="2" sideWeight="0.5048143" side_tool="true" weight="0.24959038" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.24744377" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21676892" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4951857" visible="true" weight="0.17565218" />
+      <window_info id="npm" order="2" sideWeight="0.5048143" side_tool="true" weight="0.24959038" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.21676892" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4951857" visible="true" weight="0.1773913" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32985508" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24959038" />
@@ -273,6 +246,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="меню, страницы с заглушками, роутинг, подстветка элементов меню." />
+    <option name="LAST_COMMIT_MESSAGE" value="меню, страницы с заглушками, роутинг, подстветка элементов меню." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/index.js">
@@ -303,27 +280,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/about.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/contacts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/home.js" />
+    <entry file="file://$PROJECT_DIR$/src/app/components/about.js" />
+    <entry file="file://$PROJECT_DIR$/src/app/components/contacts.js" />
     <entry file="file://$PROJECT_DIR$/src/app/layouts/layout.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -331,27 +290,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/contacts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/about.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/home.js" />
+    <entry file="file://$PROJECT_DIR$/src/app/components/contacts.js" />
+    <entry file="file://$PROJECT_DIR$/src/app/components/about.js" />
     <entry file="file://$PROJECT_DIR$/.eslintrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -369,34 +310,10 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.826/app.jsx" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.143/Layout.js" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.517/Menu.js" />
-    <entry file="file://$PROJECT_DIR$/src/app/components/contacts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/pagenotfound.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="1" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/resume.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/portfolio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/contacts.js" />
+    <entry file="file://$PROJECT_DIR$/src/app/components/pagenotfound.js" />
+    <entry file="file://$PROJECT_DIR$/src/app/components/resume.js" />
+    <entry file="file://$PROJECT_DIR$/src/app/components/portfolio.js" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.094/MenuItem.js" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.627/Footer.js" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.180/Menu.js" />
@@ -448,30 +365,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/blog.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/about.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/home.js" />
+    <entry file="file://$PROJECT_DIR$/src/app/components/blog.js" />
+    <entry file="file://$PROJECT_DIR$/src/app/components/about.js" />
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
