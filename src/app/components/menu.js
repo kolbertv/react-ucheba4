@@ -1,11 +1,6 @@
 import React from 'react';
-import {BrowserRouter, Route, Link, Switch, NavLink} from 'react-router-dom';
-import Contacts from "./contacts";
-import Home from "./home";
-import Portfolio from "./portfolio";
-import About from "./about";
-import Resume from "./resume";
-import Blog from "./blog";
+import {Link} from 'react-router-dom';
+
 import '../styles/menu.scss'
 
 
@@ -14,7 +9,6 @@ export default class Menu extends React.Component {
         return (
             <header className={'header'}>
                 <img className={'header__img'} src="./img/code-200118-1200-630.jpg" alt=""/>
-
                 <div className={'headerContainer'}>
                     <div className="headerContainer__headerLogo">
                         <img src="./img/logo-w.png" alt=""/>

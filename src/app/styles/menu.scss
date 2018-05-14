@@ -7,7 +7,7 @@ $sizeXL: "(min-width: 1200px) and (max-width: 1399px)";
 $sizeXXL: "(min-width: 1400px)";
 
 
-$border: 1px white solid;
+$border: 1px red solid;
 $border: none;
 
 a {
@@ -86,7 +86,7 @@ a {
   align-items: center;
   justify-content: space-between;
   border: $border;
-  max-width: 1800px;
+  max-width: 1400px;
 
   &__headerLogo {
     z-index: 999;
