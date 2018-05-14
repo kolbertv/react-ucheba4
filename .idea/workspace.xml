@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2122597-1dc4-4d09-ae39-cfc4ebc9bbee" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/styles/header_image.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/styles/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/header_image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/styles/menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/styles/menu.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +34,79 @@
     <favorites_list name="react-ucheba4" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <splitter split-orientation="horizontal" split-proportion="0.5324232">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/app/pages/home.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="header.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/app/components/header.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="119">
+                  <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="menu.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/app/components/menu.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="pagenotfound.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/app/pages/pagenotfound.js">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="menu.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/app/styles/menu.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="header_image.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/app/components/header_image.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="header_image.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/app/styles/header_image.scss">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,6 +147,8 @@
         <option value="$PROJECT_DIR$/src/app/layouts/layout.js" />
         <option value="$PROJECT_DIR$/src/app/components/menu.js" />
         <option value="$PROJECT_DIR$/src/app/styles/menu.scss" />
+        <option value="$PROJECT_DIR$/src/app/styles/header_image.scss" />
+        <option value="$PROJECT_DIR$/src/app/components/header_image.js" />
       </list>
     </option>
   </component>
@@ -98,7 +177,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="61" />
     <option name="y" value="19" />
     <option name="width" value="1785" />
@@ -141,6 +220,38 @@
             <path>
               <item name="react-ucheba4" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-ucheba4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-ucheba4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-ucheba4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-ucheba4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-ucheba4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-ucheba4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-ucheba4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-ucheba4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-ucheba4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-ucheba4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-ucheba4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,6 +313,7 @@
       <workItem from="1526291299543" duration="121000" />
       <workItem from="1526291936623" duration="7239000" />
       <workItem from="1526305433447" duration="120000" />
+      <workItem from="1526331612083" duration="1255000" />
     </task>
     <task id="LOCAL-00001" summary="меню, страницы с заглушками, роутинг, подстветка элементов меню.">
       <created>1526305526522</created>
@@ -214,19 +326,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62560000" />
+    <option name="totallyTimeSpent" value="63815000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="19" width="1785" height="1110" extended-state="0" />
+    <frame x="-8" y="-8" width="1869" height="1096" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.24744377" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3195021" />
       <window_info id="npm" order="2" sideWeight="0.5048143" side_tool="true" weight="0.24959038" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.21676892" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4951857" visible="true" weight="0.1773913" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.21576764" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4951857" visible="true" weight="0.1901603" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32985508" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24959038" />
@@ -252,34 +364,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="меню, страницы с заглушками, роутинг, подстветка элементов меню." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="72" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/components/home.js" />
     <entry file="file://$PROJECT_DIR$/src/app/components/about.js" />
     <entry file="file://$PROJECT_DIR$/src/app/components/contacts.js" />
@@ -330,13 +414,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/components/footer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -375,23 +452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/styles/menu.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2176">
-          <caret line="128" column="13" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/layouts/layout.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -403,6 +463,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/pagenotfound.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/pages/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/styles/header.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/styles/menu.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/styles/menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/styles/header_image.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/header_image.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

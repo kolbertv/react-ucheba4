@@ -14,7 +14,7 @@ export default class Menu extends React.Component {
     render() {
         return (
             <header className={'header'}>
-                <img className={'header__img'} src="./img/code-200118-1200-630.jpg" alt=""/>
+                {/*<img className={'header__img'} src="./img/code-200118-1200-630.jpg" alt=""/>*/}
                 <div className={'headerContainer'}>
                     <div className="headerContainer__headerLogo">
                         <img src="./img/logo-w.png" alt=""/>
