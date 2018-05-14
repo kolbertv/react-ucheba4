@@ -106,9 +106,28 @@ a {
   letter-spacing: 0.15em;
   text-transform: uppercase;
 
+
   &__item {
     margin: 13px;
     white-space: nowrap;
+
+    & a {
+      transition: color 170ms ease-in-out;
+    }
+
+    &:hover a {
+      color: white;
+
+    }
   }
 
+  &__item_active a {
+
+    color: white;
+  }
+
+  &__item_inactive a {
+
+    color: darkgray;
+  }
 }

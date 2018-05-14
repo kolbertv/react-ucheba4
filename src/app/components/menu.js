@@ -3,8 +3,14 @@ import {Link} from 'react-router-dom';
 
 import '../styles/menu.scss'
 
-
 export default class Menu extends React.Component {
+
+    isActive(href) {
+
+        return ((window.location.pathname === href) ? 'navMenu__item_active': 'navMenu__item_inactive');
+
+    }
+
     render() {
         return (
             <header className={'header'}>
@@ -15,13 +21,13 @@ export default class Menu extends React.Component {
                     </div>
                     <div className={'headerContainer__menu'}>
                         <nav className={'navMenu'}>
-                            <div className={'navMenu__item ' + 'navMenu__item_active'}><Link exact to='/'>главная</Link>
+                            <div className={'navMenu__item ' + (this.isActive('/'))}><Link exact to='/'>главная</Link>
                             </div>
-                            <div className={'navMenu__item'}><Link to='/portfolio'>портфолио</Link></div>
-                            <div className={'navMenu__item'}><Link to='/about'>о себе</Link></div>
-                            <div className={'navMenu__item'}><Link to='/resume'>резюме</Link></div>
-                            <div className={'navMenu__item'}><Link to='/blog'>блог</Link></div>
-                            <div className={'navMenu__item'}><Link to='/contacts'>контакты</Link></div>
+                            <div className={'navMenu__item ' + (this.isActive('/portfolio'))}><Link to='/portfolio'>портфолио</Link></div>
+                            <div className={'navMenu__item ' + (this.isActive('/about'))}><Link to='/about'>о себе</Link></div>
+                            <div className={'navMenu__item ' + (this.isActive('/resume'))}><Link to='/resume'>резюме</Link></div>
+                            <div className={'navMenu__item ' + (this.isActive('/blog'))}><Link to='/blog'>блог</Link></div>
+                            <div className={'navMenu__item ' + (this.isActive('/contacts'))}><Link to='/contacts'>контакты</Link></div>
                         </nav>
                     </div>
                 </div>
