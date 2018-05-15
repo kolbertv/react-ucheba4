@@ -9,11 +9,11 @@ export default class Contacts extends React.Component {
 
             <div className={'mainContainer'}>
                 <HeaderImage/>
-                <h3>Контакты</h3>
-                <ul>
-                    <li>Почта</li>
-                    <li>Телефон</li>
-                </ul>
+                <div className={'itemContainer'}>
+                    <div className={'contentWrapper'}>
+                        <h1>Главная Доброе пожаловать</h1>
+                    </div>
+                </div>
             </div>
 
         )

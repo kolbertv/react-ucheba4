@@ -10,8 +10,16 @@ export default class About extends React.Component {
             <div className={'mainContainer'}>
                 <HeaderImage/>
 
-                <h3>О нас</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, rem.</p>
+                <div className={'itemContainer'}>
+
+                    <div className={'contentWrapper'}>
+                        <h1>Главная Доброе пожаловать</h1>
+
+                    </div>
+
+                </div>
+
+
             </div>
         )
 

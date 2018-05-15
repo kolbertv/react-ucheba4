@@ -10,8 +10,16 @@ export default class Resume extends React.Component
             <div className={'mainContainer'}>
                 <HeaderImage/>
 
-                <h1>Резюме</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, rem.</p>
+                <div className={'itemContainer'}>
+
+                    <div className={'contentWrapper'}>
+                        <h1>Главная Доброе пожаловать</h1>
+
+                    </div>
+
+                </div>
+
+
             </div>
 
         )

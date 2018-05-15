@@ -18,11 +18,11 @@ export default class Layout extends React.Component {
                 <Menu/>
                 <main className={'main'}>
                     <Switch>
-                        <Route exact path='/' component={Home}/>
+                        <Route exact path='/blog' component={Home}/>
                         <Route path='/portfolio' component={Portfolio}/>
                         <Route path='/about' component={About}/>
                         <Route path='/resume' component={Resume}/>
-                        <Route path='/blog' component={Blog}/>
+                        <Route path='/' component={Blog}/>
                         <Route path='/contacts' component={Contacts}/>
                         <Route render={() => <h1>Page not found</h1>}/>
                     </Switch>
@@ -30,6 +30,7 @@ export default class Layout extends React.Component {
                 <Footer>Подвал</Footer>
             </div>
         )
+
 
     }
 
