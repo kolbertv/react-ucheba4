@@ -1,0 +1,19 @@
+@import "common.scss";
+
+
+$border: 1px red solid;
+//$border: none;
+
+
+.footer {
+
+
+}
+
+.footerContainer {
+  margin: 0 auto;
+  border: $border;
+  max-width: $max_width;
+  padding-left: 50px;
+  padding-right: 50px;
+}

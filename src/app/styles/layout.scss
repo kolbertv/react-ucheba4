@@ -1,12 +1,9 @@
+@import "common.scss";
+
+
 $border: 1px green solid;
-$sizeXS : "(max-width: 575px)";
-$sizeSM : "(min-width: 576px) and (max-width: 767px)";
-$sizeMD : "(min-width: 768px) and (max-width: 991px)";
-$sizeLG : "(min-width: 992px) and (max-width: 1199px)";
-$sizeXL : "(min-width: 1200px)";
 
-
-.mainContainer {
+.appContainer {
   border: $border;
-  position: relative;
+
 }

@@ -14,7 +14,7 @@ import '../styles/layout.scss'
 export default class Layout extends React.Component {
     render() {
         return (
-            <div className={'mainContainer'}>
+            <div className={'appContainer'}>
                 <Menu/>
                 <main className={'main'}>
                     <Switch>

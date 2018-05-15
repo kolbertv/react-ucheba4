@@ -1,0 +1,29 @@
+@import "common.scss";
+
+
+$border: 1px blue solid;
+//$border: none;
+
+
+
+.mainContainer {
+
+}
+
+.itemContainer {
+  border: $border;
+  background-color: #edeeef;
+  height: 400px;
+
+}
+
+
+.contentWrapper {
+  margin: 0 auto;
+  max-width: $max_width;
+  padding-left: 50px;
+  padding-right: 50px;
+  border: $border;
+
+
+}

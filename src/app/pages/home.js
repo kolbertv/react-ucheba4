@@ -5,19 +5,29 @@ import Contacts from "./contacts";
 import About from "./about";
 import Resume from "./resume";
 import Portfolio from "./portfolio";
+import '../styles/main.scss'
+
+import HeaderImage from '../components/header_image'
 
 
 export default class Home extends React.Component
 {
     render () {
         return (
-            <main>
-                <div className="titleimg">
-                    {/*<img src="../img/bigfoto.jpg" alt=""/>*/}
+            <div className={'mainContainer'}>
+                <HeaderImage/>
+
+                <div className={'itemContainer'}>
+
+                    <div className={'contentWrapper'}>
+                        <h1>Главная Доброе пожаловать</h1>
+
+                    </div>
+
                 </div>
 
-                <h1>Главная Доброе пожаловать</h1>
-            </main>
+
+            </div>
         )
     }
 
