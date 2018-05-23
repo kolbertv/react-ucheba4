@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2122597-1dc4-4d09-ae39-cfc4ebc9bbee" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/components/post.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/vendors.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/vendors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layouts/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layouts/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/pages/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/about.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/pages/blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/blog.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/pages/contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/contacts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/pages/pagenotfound.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/pagenotfound.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/pages/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/portfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/pages/resume.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pages/resume.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -124,11 +112,11 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="1785" />
-    <option name="height" value="1100" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="247" />
+    <option name="y" value="41" />
+    <option name="width" value="1368" />
+    <option name="height" value="999" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -264,6 +252,10 @@
       <workItem from="1526360464058" duration="11105000" />
       <workItem from="1526410889274" duration="8000" />
       <workItem from="1526412879729" duration="4954000" />
+      <workItem from="1526541325293" duration="50000" />
+      <workItem from="1526995757235" duration="250000" />
+      <workItem from="1526996039050" duration="1580000" />
+      <workItem from="1527054116345" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="меню, страницы с заглушками, роутинг, подстветка элементов меню.">
       <created>1526305526522</created>
@@ -276,24 +268,33 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79882000" />
+    <option name="totallyTimeSpent" value="81766000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1869" height="1096" extended-state="6" />
+    <frame x="247" y="41" width="1368" height="999" extended-state="0" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50028986" side_tool="true" weight="0.28732106" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.17045455" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" sideWeight="0.5048143" side_tool="true" weight="0.24959038" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.17075665" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49971014" visible="true" weight="0.3360996" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4951857" visible="true" weight="0.20287451" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49971014" visible="true" weight="0.36793542" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4951857" visible="true" weight="0.29434252" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32985508" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24959038" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" sideWeight="0.5048143" side_tool="true" weight="0.24959038" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -435,28 +436,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.191/Users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.191/Users.js" />
     <entry file="file://$PROJECT_DIR$/src/app/layouts/layout.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -471,9 +458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -488,9 +472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -498,30 +479,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-            <marker date="1526417602940" expanded="true" signature="225:597" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/post.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="36" column="54" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/post.js" />
     <entry file="file://$PROJECT_DIR$/src/app/components/menu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="65" lean-forward="true" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -529,9 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
